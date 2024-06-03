@@ -1,0 +1,3 @@
+SimpleGoal:clean the house,10,True
+EternalGoal:temple attendance,50,1
+TotalPoints:60
